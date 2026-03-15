@@ -2,7 +2,7 @@ import json
 import streamlit as st
 from search import search_pages, highlight_match
 
-PAGES_FILE = "pages.json"
+PAGES_FILE = "techzero_w2/pages.json"
 
 
 def load_pages():
